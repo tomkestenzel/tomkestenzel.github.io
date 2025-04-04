@@ -29,3 +29,9 @@ header{
     left: 20px;
     scale: 0.8;
 }
+
+h1{
+    margin-top: 100px;
+    text-align: center;
+    transform: scale(2.5);
+}
